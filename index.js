@@ -10,8 +10,8 @@
 
 // const user = {name: "corban",age: 20, } object 
 
-function greet(name){
-    return "hello" + " " + name;
-}
+// function greet(name){
+//     return "hello" + " " + name;
+// }
    
-console.log(greet('corban'));
+// console.log(greet('corban'));
